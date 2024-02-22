@@ -1,1 +1,2 @@
 second file
+resolving demo of merge conflict
