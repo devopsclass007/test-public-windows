@@ -1,2 +1,3 @@
 second file
 resolving demo of merge conflict
+demo of merge conflict second time
